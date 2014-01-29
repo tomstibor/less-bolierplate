@@ -1,20 +1,8 @@
 /*=======================================
 =            Main stylesheet            =
 =======================================*/
-
-@import: "lesshat.less";
-@import: "variables.less";
-@import: "reset.less";
-@import: "grid.less";
-@import: "fonts.less";
-
-
 /**
 *
 * Screen style
 *
 **/
-
-body {
-	
-}
